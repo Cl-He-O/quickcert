@@ -1,6 +1,6 @@
 /*
- * This program generate a ed25519 private key and a self-signed
- * x509 certificate and them write to stdout and stderr seperately.
+ * This program generates an ed25519 private key and a self-signed
+ * x509 certificate and writes them to stdout and stderr seperately.
  *
  *
  * 2023-7-16 Kerry
